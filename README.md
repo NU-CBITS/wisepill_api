@@ -12,4 +12,4 @@
 
 `gem install rspec`
 
-`rspec spec/wisepill.rb`
+`rspec spec/wisepill_spec.rb`
